@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Edyoda/static/css/main.073fd47e.css",
+    "main.js": "/Edyoda/static/js/main.ca9d3050.js",
+    "index.html": "/Edyoda/index.html",
+    "main.073fd47e.css.map": "/Edyoda/static/css/main.073fd47e.css.map",
+    "main.ca9d3050.js.map": "/Edyoda/static/js/main.ca9d3050.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073fd47e.css",
+    "static/js/main.ca9d3050.js"
+  ]
+}
